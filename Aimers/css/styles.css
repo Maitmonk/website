@@ -1,0 +1,47 @@
+ body{
+    overflow-x: hidden;
+ }
+ .navbar-brand{
+    padding-top: 10%;
+    padding-left: 10%;
+ }
+.nav-item{
+    /* padding-top: 10%; */
+    padding-right:50px;
+  
+}
+
+.head-content{
+    font-family: 'Source Sans Pro', sans-serif;
+    
+} 
+.first{
+     padding-top: 200px;
+    padding-left: 120px; 
+    font-size: 71.5px;
+    
+} 
+.second{
+    padding-left:100px;
+    font-size: 70px;
+  
+}
+#explore{
+   margin-left: 120px;
+   margin-top: 20px;
+}
+.title-image{
+    margin-left: 100px;
+}
+#card1{
+   margin-left: 180px;
+
+}
+#card2{
+    margin-left: 100px; 
+     margin-right:80px;
+}
+.card-body{
+    /* block-size: 200px;
+     */
+}
